@@ -2,6 +2,9 @@
   "folders": [
     {
       "path": "front"
+    },
+    {
+      "path": "broker"
     }
   ],
   "settings": {}
